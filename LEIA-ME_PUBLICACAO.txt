@@ -1,0 +1,10 @@
+SITE TMF — PUBLICAÇÃO NO GITHUB PAGES
+
+1. Abra o repositório do site no GitHub.
+2. Na raiz do repositório (ou pasta configurada no Pages), substitua o arquivo index.html pelo deste ZIP.
+3. Clique em Commit changes.
+4. Aguarde a publicação e recarregue o site usando Ctrl+F5 (ou janela anônima).
+5. Teste todos os seis botões de compra.
+
+ATENÇÃO: Não basta enviar o ZIP ao repositório: extraia e publique o index.html.
+Se o site usa Cloudflare Pages, verifique qual repositório/branch está conectado e aguarde o novo deploy.
